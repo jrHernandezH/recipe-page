@@ -18,7 +18,7 @@ import Recipe from './views/Recipe.vue';
     .container{
       width: 100%;
       margin: 0;
-      border-radius: 0;
+      border-radius: 0px;
     }      
   }
 </style>

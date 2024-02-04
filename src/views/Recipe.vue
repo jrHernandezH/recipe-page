@@ -113,7 +113,7 @@
         .card-img-top{
             width: 100%;
             margin: 0px;
-            border-radius: 10px;
+            border-radius: 0px;
         }  
         .card-body{
             width: 85%;
