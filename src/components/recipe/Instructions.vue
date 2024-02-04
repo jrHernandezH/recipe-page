@@ -12,8 +12,6 @@
 </template>
 
 <script setup>
-    import { ref } from 'vue';
-
     const dataInstructions = [
         {
             id: 1,
